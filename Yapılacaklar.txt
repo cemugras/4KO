@@ -1,0 +1,43 @@
++ Başlangıç letter hediyeleri
++ Beginner item
+	https://www.youtube.com/watch?v=2RzDlmTFcXk
++ Başlangıç leveli
+
+- Yeni item nasıl eklenir
+
+- Yeni item NPC'ye nasıl koyulur
+	https://www.youtube.com/watch?v=Ks-e_KT--zk
+
+- Server ismi düzeltilecek
+- Genie ayarlama
+- Mob XP düzeltme
+- Mob drop düzeltme
+
+- Magenin damageleri azaltılacak itemli char ilede denenicek
+
+- Akademi mevzusu
+
+- 5m coin
+
+- Oyundan GB silme araştırması
+	Hangi itemler NPC'ye eklenicek
+	Hangi itemler PUS'a eklenicek
+
+- Hemes NPC'sinde ismi değişecek olanlar
+	Exchange [Voucher of Genie + Automatic Looting] -> Voucher of Genie
+
+- PUS düzenlenecek
+
+- Upgrade tablosu düzenlenecek
+
+- Panel
+	Server Start
+	Item sekmesi - ID | itemName | icon
+	Mob drop görüntüleme/editleme
+	Banka görüntüleme/editleme
+	Envanter görüntüleme/editleme
+	Başlangıç itemleri düzenleme
+
+- Launcher
+	Background image
+	Discord button

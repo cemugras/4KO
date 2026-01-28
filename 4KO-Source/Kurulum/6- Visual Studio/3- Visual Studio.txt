@@ -1,0 +1,3 @@
+Visual Studio kur
+
+LoginServer ve GameServer buildleri al.

@@ -1,0 +1,17 @@
+------------------------------------------------------
+item bulma 
+select * from item where strname like '%İTEMİSMİ%'
+------------------------------------------------------
+item silme
+Delete from item where num = 'itemnumarası'
+------------------------------------------------------
+Sınırsız yapma
+update magic set useitem='0' where useitem='389082000'
+------------------------------------------------------
+Sınırlı yapma
+Update magic Set useitem = '389020000' WHERE magicnum = '490014'
+------------------------------------------------------
+Db den db tablo aktarma
+SELECT * INTO KO_SERVER_001.dbo.K_MONSTER
+FROM kn_online.dbo.K_MONSTER
+------------------------------------------------------

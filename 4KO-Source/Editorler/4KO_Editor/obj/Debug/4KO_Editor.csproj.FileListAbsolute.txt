@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\4KO\4KO-Source\Editorler\4KO_Editor\bin\Debug\4KO_Editor.exe.config
+C:\Users\User\Desktop\4KO\4KO-Source\Editorler\4KO_Editor\bin\Debug\4KO_Editor.exe
+C:\Users\User\Desktop\4KO\4KO-Source\Editorler\4KO_Editor\bin\Debug\4KO_Editor.pdb
+C:\Users\User\Desktop\4KO\4KO-Source\Editorler\4KO_Editor\obj\Debug\4KO_Editor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4KO\4KO-Source\Editorler\4KO_Editor\obj\Debug\_4KO_Editor.Form1.resources
+C:\Users\User\Desktop\4KO\4KO-Source\Editorler\4KO_Editor\obj\Debug\_4KO_Editor.Properties.Resources.resources
+C:\Users\User\Desktop\4KO\4KO-Source\Editorler\4KO_Editor\obj\Debug\4KO_Editor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\4KO\4KO-Source\Editorler\4KO_Editor\obj\Debug\4KO_Editor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4KO\4KO-Source\Editorler\4KO_Editor\obj\Debug\4KO_Editor.exe
+C:\Users\User\Desktop\4KO\4KO-Source\Editorler\4KO_Editor\obj\Debug\4KO_Editor.pdb

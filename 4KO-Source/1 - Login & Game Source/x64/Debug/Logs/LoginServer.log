@@ -1,0 +1,240 @@
+ODBC error occurred.
+Source: SQLDriverConnect
+Error: [Microsoft][ODBC Driver Manager] Veri kaynaðý adý bulunamadý ve varsayýlan sürücü belirtilmemiþ
+Description: Unable to establish connection.
+ODBC error occurred.
+Source: SQLDriverConnect
+Error: [Microsoft][ODBC Driver Manager] Veri kaynaðý adý bulunamadý ve varsayýlan sürücü belirtilmemiþ
+Description: Unable to establish connection.
+ODBC error occurred.
+Source: SQLDriverConnect
+Error: [Microsoft][ODBC Driver Manager] Veri kaynaðý adý bulunamadý ve varsayýlan sürücü belirtilmemiþ
+Description: Unable to establish connection.
+ODBC error occurred.
+Source: SQLDriverConnect
+Error: [Microsoft][ODBC Driver Manager] Veri kaynaðý adý bulunamadý ve varsayýlan sürücü belirtilmemiþ
+Description: Unable to establish connection.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GAME_SERVER_LIST'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'VERSION'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SQLDriverConnect
+Error: [Microsoft][ODBC Driver Manager] Veri kaynaðý adý bulunamadý ve varsayýlan sürücü belirtilmemiþ
+Description: Unable to establish connection.
+ODBC error occurred.
+Source: SQLDriverConnect
+Error: [Microsoft][ODBC Driver Manager] Veri kaynaðý adý bulunamadý ve varsayýlan sürücü belirtilmemiþ
+Description: Unable to establish connection.
+ODBC error occurred.
+Source: SQLDriverConnect
+Error: [Microsoft][ODBC Driver Manager] Veri kaynaðý adý bulunamadý ve varsayýlan sürücü belirtilmemiþ
+Description: Unable to establish connection.
+ODBC error occurred.
+Source: SQLDriverConnect
+Error: [Microsoft][ODBC Driver Manager] Veri kaynaðý adý bulunamadý ve varsayýlan sürücü belirtilmemiþ
+Description: Unable to establish connection.
+ODBC error occurred.
+Source: SQLDriverConnect
+Error: [Microsoft][ODBC Driver Manager] Belirtilen DSN'de Sürücü ile Uygulama arasýnda bir mimari uyuþmazlýðý var
+Description: Unable to establish connection.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sServerID, strKarusKingName, strKarusNotice,strElMoradKingName, strElMoradNotice FROM GAME_SERVER_LIST
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'GAME_SERVER_LIST', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SELECT sVersion, sHistoryVersion, strFilename FROM VERSION
+Error: [Microsoft][ODBC SQL Server Driver][SQL Server]The SELECT permission was denied on the object 'VERSION', database 'KO_ISTIRAP_SERVER_DB', schema 'dbo'.
+Description: Failed to execute statement.
+ODBC error occurred.
+Source: SQLDriverConnect
+Error: [Microsoft][ODBC SQL Server Driver][DBMSLPCN]SQL Server yok veya eriþim engellendi.
+Description: Unable to establish connection.

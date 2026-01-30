@@ -8,6 +8,7 @@
 #include "CSpell.h"
 #include "DateTime.h"
 #include "BanSystem.h"
+#include <chrono>
 bool isLeaderAttack = false;
 bool ischeatactive = false;
 bool isHideUser = false;
@@ -4286,7 +4287,17 @@ void HandleZindanWar(Packet &pkt) {
 		break;
 	}
 }
+int GetMsSinceMidnightGmt() {
+	time_t tnow = time(NULL);
+	struct tm* tmDate = gmtime(&tnow);
 
+	if (tmDate == NULL) return 0;
+
+	int secondsSinceMidnight = (tmDate->tm_hour * 3600) +
+		(tmDate->tm_min * 60) +
+		tmDate->tm_sec;
+	return secondsSinceMidnight * 1000;
+}
 int GetMsSinceMidnightGmt(std::chrono::system_clock::time_point tpNow) {
 	time_t tnow = std::chrono::system_clock::to_time_t(tpNow);
 	tm * tmDate = std::localtime(&tnow);
@@ -5357,15 +5368,15 @@ void __cdecl XSafeHandlePacket(Packet pkt)
 				// Karus
 				111001,111005,111500,111509,111518,111527,111536,111545,112560,112554,112557,
 				111554,111557,111560,112001,112005,112500,112509,112518,112527,112536,112545,
-				
+
 				//El Morad
 				211001,211005,211500,211509,211518,211527,211536,211545,211554,211557,212557,
 				211560,212001,212005,212500,212509,212518,212527,212536,212545,212554,212560,
-				
+
 			};
 			const vector<uint32> NovaSkills = {
 				110571,210571,110671,210671,110771,210771,110560,210560,110660,210660,110760,210760,110545,210545,110645,210645,110745,210745,
-				
+
 			};
 
 			const vector<uint32> ThirtyThreeSkills = {
@@ -5395,19 +5406,19 @@ void __cdecl XSafeHandlePacket(Packet pkt)
 				212642,111645,112645,211645,212645,111655,112655,211655,111656,112656,
 
 			};
-			
+
 
 			bool cont = false;
 			for (itr = Engine->skillmap.begin(); itr != Engine->skillmap.end(); itr++)
 			{
 				if (Engine->m_PlayerBase->GetClass() != itr->second.dwID / 1000)
 					continue;
-				if (itr->second.iCastTime < 1)
+				if (itr->second.iCastTime < 30)
 					continue;
 
 				if (std::find(ThirtyThreeSkills.begin(), ThirtyThreeSkills.end(), itr->second.dwID) != ThirtyThreeSkills.end())
 					continue;
-				
+
 				int8 hesaps = itr->second.iCastTime / 2;
 				if (hesaps > 6)
 					hesaps = 6;
@@ -5420,7 +5431,7 @@ void __cdecl XSafeHandlePacket(Packet pkt)
 					continue;
 				if (std::find(buffskills.begin(), buffskills.end(), itr->second.dwID) != buffskills.end())
 					continue;
-			
+
 				if (CSpell* spell = GetSkillBase(itr->second.dwID))
 				{
 					if (hesaps > 0)
@@ -5434,7 +5445,7 @@ void __cdecl XSafeHandlePacket(Packet pkt)
 		{
 			Engine->m_isGenieStatus = false;
 			std::map<uint32, CSpell>::iterator itr;
-	
+
 			for (itr = Engine->skillmap.begin(); itr != Engine->skillmap.end(); itr++)
 			{
 				auto bkp = Engine->skillmapBackup.find(itr->second.dwID);
@@ -5450,7 +5461,7 @@ void __cdecl XSafeHandlePacket(Packet pkt)
 				}
 
 			}
-			
+
 		}
 	}
 	break;

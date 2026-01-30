@@ -14,7 +14,7 @@
 - Mob XP düzeltme
 - Mob drop düzeltme
 
-- Magenin damageleri azaltılacak itemli char ilede denenicek
++ Magenin damageleri azaltılacak itemli char ilede denenicek
 
 - Akademi mevzusu
 
@@ -27,7 +27,7 @@
 - Hemes NPC'sinde ismi değişecek olanlar
 	Exchange [Voucher of Genie + Automatic Looting] -> Voucher of Genie
 
-- PUS düzenlenecek
++ PUS düzenlenecek
 
 - Upgrade tablosu düzenlenecek
 

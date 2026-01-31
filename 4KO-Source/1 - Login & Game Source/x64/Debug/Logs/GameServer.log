@@ -69,3 +69,4 @@
 [ ODBC Error - 28.1.2026 21:3:30 ] ] Source: {CALL LOAD_DRAKI_MONSTER_LIST} Error: [Microsoft][ODBC SQL Server Driver]Baðlantý diðer bir hstmt sonuçlarý ile meþgul Description: Failed to execute statement.
 [ ODBC Error - 28.1.2026 21:4:42 ] ] Source: {CALL LOAD_DRAKI_MONSTER_LIST} Error: [Microsoft][ODBC SQL Server Driver]Baðlantý diðer bir hstmt sonuçlarý ile meþgul Description: Failed to execute statement.
 [ ODBC Error - 28.1.2026 21:23:58 ] ] Source: {CALL LOAD_DRAKI_MONSTER_LIST} Error: [Microsoft][ODBC SQL Server Driver]Baðlantý diðer bir hstmt sonuçlarý ile meþgul Description: Failed to execute statement.
+[ ODBC Error - 31.1.2026 22:13:23 ] ] Source: {CALL LOAD_DRAKI_MONSTER_LIST} Error: [Microsoft][ODBC SQL Server Driver]Baðlantý diðer bir hstmt sonuçlarý ile meþgul Description: Failed to execute statement.
